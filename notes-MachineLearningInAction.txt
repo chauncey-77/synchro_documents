@@ -20,4 +20,6 @@ notes-MachineLearningInAction      by xuchangtiao
     5.测试算法。不满意则跳回第4步甚至第1步继续。
     6.使用算法。
 Python：
-    
+    1.语法清晰，被称为可执行伪代码。
+    2.易于操作纯文本文件，易于处理非数值型数据。
+    3.使用广泛，存在大量的开发文档。
