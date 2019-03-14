@@ -1,4 +1,4 @@
-notes-MachineLearningInAction      by xuchangtiao
+notes-MachineLearningInAction      by xuchangtiao @xuchangtiao
 
 机器学习的真实含义：
     机器学习能让我们自数据集中受到启发，我们利用计算机来彰显数据背后的真实含义。
